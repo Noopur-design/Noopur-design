@@ -28,10 +28,9 @@
 ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-black?style=for-the-badge)
 
 ---
-
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Noopur-design&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noopur-design&layout=compact&theme=tokyonight)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=noopur-design&show_icons=true&theme=tokyonight)
 
 ---
 
