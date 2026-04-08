@@ -29,8 +29,7 @@
 
 ---
 ## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=noopur-design&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Noopur-design&show_icons=true)
 
 ---
 
