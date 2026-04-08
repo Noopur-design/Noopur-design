@@ -25,7 +25,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge\&logo=firebase)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
 ![GSAP](https://img.shields.io/badge/GSAP-88ce02?style=for-the-badge)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge\&logo=framer)
 ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-black?style=for-the-badge)
 
 ---
