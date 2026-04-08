@@ -1,32 +1,102 @@
 # Hi 👋, I'm Noopur
 
-🚀 Web Developer passionate about building modern, interactive web experiences
+🚀 Web Developer passionate about building modern, interactive, and scalable web applications
 🌱 Currently learning & building full-stack applications
+
+<p align="center">
+  <a href="https://github.com/Noopur-design">GitHub</a> •
+  <a href="https://in.linkedin.com/in/noopur-porwal">LinkedIn</a>
+</p>
 
 ---
 
 ## ✨ About Me
 
-* 💻 I enjoy creating clean and responsive websites
-* 🎨 I love working with animations and UI/UX design
-* 🚀 Currently improving my skills in React & Next.js
-* 📚 Always learning new technologies and building projects
+* 💻 Web Developer focused on clean UI and smooth user experience
+* 🎨 I enjoy animations, interactive design, and modern frontend development
+* 🚀 Building full-stack applications with real-world features
+* 📚 Always exploring new tools and technologies
 
 ---
 
-## ⚡ Tech Stack
+## 🧠 Skills
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0ea5e9?style=for-the-badge\&logo=tailwindcss)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge\&logo=firebase)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
-![GSAP](https://img.shields.io/badge/GSAP-88ce02?style=for-the-badge)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge\&logo=framer)
-![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-black?style=for-the-badge)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,firebase,postgres,python" />
+</p>
+
+### Also Working With
+
+* GSAP
+* React Motion
+* React Three Fiber
+* Prisma
+* NextAuth
+* FastAPI
+* SQLAlchemy
+
+---
+
+## 🔥 Featured Projects
+
+### 🚀 ResumeForge – ATS Resume Builder SaaS
+
+A full-stack resume builder platform with AI-powered optimization and export features.
+
+**Highlights:**
+
+* Resume CRUD, duplication & version history
+* AI keyword extraction, scoring & rewrite suggestions
+* Multiple templates with preview & export
+* Export to PDF & DOCX
+* Authentication with JWT + password reset
+
+**Tech Stack:**
+
+* Next.js, React, TypeScript, Tailwind
+* FastAPI, SQLAlchemy
+* PostgreSQL / MySQL / SQLite
+* OpenAI, Anthropic, Ollama
+
+[🔗 View Project](https://github.com/Noopur-design/Resume_builder-)
+
+---
+
+### 👗 Vastra – Premium Streetwear Ecommerce
+
+A full-stack ecommerce platform with modern UI and animated interactions.
+
+**Tech Stack:**
+
+* Next.js, React, TypeScript
+* Tailwind CSS
+* Prisma + PostgreSQL
+* NextAuth
+* Zustand, React Hook Form
+* Framer Motion, Lucide
+
+[🔗 View Project](https://github.com/Noopur-design/Vastra)
+
+---
+
+### 🏡 DreamHomes – Real Estate Platform
+
+A real estate web app for browsing and managing property listings.
+
+**Features:**
+
+* Searchable & sortable listings
+* Property detail pages
+* Agent profiles
+* Contact & newsletter forms
+
+**Tech Stack:**
+
+* HTML, CSS, JavaScript
+* Python (WSGI)
+* SQLite
+
+[🔗 View Project](https://github.com/Noopur-design/dreamhomes-website)
 
 ---
 
@@ -36,13 +106,15 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌱 Currently Exploring
 
-* 💼 GitHub: https://github.com/Noopur-design
-* 🔗 LinkedIn: https://in.linkedin.com/in/noopur-porwal
+* Advanced React patterns
+* Scalable full-stack architecture
+* AI integration in web apps
+* 3D experiences with React Three Fiber
 
 ---
 
-## ⚡ Fun Touch
+## 💫 Fun Line
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF\&lines=Web+Developer;React+Lover;Creative+Coder;UI/UX+Enthusiast)
+> Building products, not just projects.
