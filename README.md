@@ -21,24 +21,18 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-0ea5e9?style=for-the-badge\&logo=tailwindcss)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0ea5e9?style=for-the-badge\&logo=tailwindcss)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge\&logo=firebase)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
 ![GSAP](https://img.shields.io/badge/GSAP-88ce02?style=for-the-badge)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge\&logo=framer)
 ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-black?style=for-the-badge)
 
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noopur-design&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noopur-design&layout=compact&theme=tokyonight" />
-</p>
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Noopur-design\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Noopur-design\&theme=tokyonight)
 
 ---
 
